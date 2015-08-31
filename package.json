@@ -1,0 +1,26 @@
+{
+  "name": "StrengthTracker",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josh Stevens",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "~0.8.1",
+    "body-parser": "latest",
+    "connect-flash": "~0.1.1",
+    "cookie-parser": "latest",
+    "ejs": "latest",
+    "express": "~4.12.3",
+    "express-session": "latest",
+    "mongoose": "latest",
+    "morgan": "~1.5.2",
+    "mysql": "^2.9.0",
+    "passport": "~0.2.1",
+    "passport-facebook": "~2.0.0",
+    "passport-local": "~1.0.0"
+  }
+}
